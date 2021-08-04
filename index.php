@@ -158,7 +158,7 @@
             </div>
             <div class="about-info">
                 <p><span>Hi! My name is Chandan Sharma. I am a Software Developer and a Web Designer.</span>
-                    I am currently in my 4th year of B.Tech, Computer Science Engineering from <a href="https://www.lpu.in/" style="color:rgb(79, 151, 219); font-weight: 450; " >Lovely Professional University</a>.</p>
+                    I am currently in my 4th year of B.Tech, Computer Science Engineering in <a href="https://www.lpu.in/" style="color:rgb(79, 151, 219); font-weight: 450; " >Lovely Professional University</a>.</p>
                 <p>I am ardent learner and problem solver. Software development, Web Designing and several domain of mathematics intrigue me. I'm a man who just love to transform
                     his coffee into code. You'll always find me solving problems on websites like <span><a href="https://www.codechef.com/users/itsmorris_worm" target="_blank" style="color: rgb(192, 8, 8); font-size: 15px; font-weight: 530;">CodeChef</a></span>, 
                     <span><a href="https://codeforces.com/profile/itsmorris_worm" target="_blank" style="color: rgb(190, 114, 0); font-size: 15px; font-weight: 530;">Codeforces</a></span>, <span><a href="https://www.hackerrank.com/itsmorris_worm" target="_blank" style="color: rgb(216, 195, 6); font-size: 15px; font-weight: 530;">HackerRank</a></span>,
@@ -883,7 +883,7 @@
                                 <i class="fas fa-quote-left left"></i>
                                 <i class="fas fa-quote-right right"></i>
                                 <p><span>" Faster Than Light. Who? "</span></p>
-                                <p><a class="mark fab fa-canadian-maple-leaf"> </a> Hindu Vedas, the collection of ancient religious texts. Are they only the books of religion? Or the "Cosmic Oceans" hiding all the secrets of our universe. </p>
+                                <p><a class="mark fab fa-canadian-maple-leaf"> </a> Hindu Vedas, the collection of ancient religious texts. Are they only the books of religion? Or the "Cosmic Oceans" hiding the secrets of our universe. </p>
                                 <p><a class="mark fab fa-canadian-maple-leaf"> </a> <a>"ATREY BRAHMANA GRANTHA"</a>, written 7000 years ago explaining the existence of something called as <a>"DHANANJAYA PRANA"</a> having speed 4-times the <a>"Speed Of Light"</a>.</p>
                                 <p><a class="mark fab fa-canadian-maple-leaf"> </a> According to this ancient scripture, <a>"Dhananjaya Prana"</a> is a vibrating entity (<a style="font-style: italic;">a string or rashmi</a> ) which itself is a part of <a>"Photon"</a> or the reason of its tremendous speed.</p>
                                 <img src="./img/projfolio/thumb/b4.gif" alt="blog">
@@ -896,7 +896,7 @@
                             <i class="fas fa-quote-left left"></i>
                             <i class="fas fa-quote-right right"></i>
                             <p><span>" Understanding Dhananjaya Prana "</span></p>
-                            <p><a class="mark fab fa-canadian-maple-leaf"></a> Photon is the fastest known particle moving with the speed of light. According to <a>"ATRAY BRAHMANA GRANTHA"</a>, <a>"DHANANJAYA PRANA"</a> is a something with the speed 4-times the speed of light. How?</p>
+                            <p><a class="mark fab fa-canadian-maple-leaf"></a> Photon is the fastest known particle moving with the speed of light. According to <a>"ATRAY BRAHMANA GRANTHA"</a>, <a>"DHANANJAYA PRANA"</a> is something having the speed 4-times the speed of light. How?</p>
                             <p><a class="mark fab fa-canadian-maple-leaf"></a> Let's Understand it with the help of an example. Suppose a small piece of paper is flying in the high velocity wind. No matter how much small this paper is, its velocity is somewhat a little lesser than
                                 the wind due to its mass. Wind is here its motion source.</p>
                             <p><a class="mark fab fa-canadian-maple-leaf"></a> Now that small paper is the photon moving with the light velocity and that wind is the Dhananjaya Prana having speed 4-times of Photon. It is the motion source of all EM-Wave transmissions.</p>
