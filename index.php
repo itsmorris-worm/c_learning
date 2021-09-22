@@ -617,11 +617,13 @@
                     <div class="project-item-img">
                         <img src="./img/projfolio/thumb/web.gif" alt="project"
                         data-screenshots="img/projfolio/proj/project1/mini_game/p1.png,
-                        img/projfolio/proj/project1/mini_game/p2.png,
-                        img/projfolio/proj/project1/mini_game/p3.png,
-                        img/projfolio/proj/project1/mini_game/p4.png,
-                        img/projfolio/proj/project1/mini_game/p5.png,
-                        img/projfolio/proj/project1/mini_game/p6.png">
+                        img/projfolio/proj/project1/portfolio/pw0.png,
+                        img/projfolio/proj/project1/portfolio/pw1.png,
+                        img/projfolio/proj/project1/portfolio/pw2.png,
+                        img/projfolio/proj/project1/portfolio/pw3.png,
+                        img/projfolio/proj/project1/portfolio/pw4.png,
+                        img/projfolio/proj/project1/portfolio/pw5.png,
+                        img/projfolio/proj/project1/portfolio/pw6.png">
                         <!--view project btn-->
                         <span class="view-project">view project</span>
                     </div>
