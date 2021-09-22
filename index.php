@@ -616,8 +616,7 @@
                 <div class="project-item-inner outer-shadow">
                     <div class="project-item-img">
                         <img src="./img/projfolio/thumb/web.gif" alt="project"
-                        data-screenshots="img/projfolio/proj/project1/mini_game/p1.png,
-                        img/projfolio/proj/project1/portfolio/pw0.png,
+                        data-screenshots="img/projfolio/proj/project1/portfolio/pw0.png,
                         img/projfolio/proj/project1/portfolio/pw1.png,
                         img/projfolio/proj/project1/portfolio/pw2.png,
                         img/projfolio/proj/project1/portfolio/pw3.png,
