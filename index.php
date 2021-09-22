@@ -575,12 +575,12 @@
             <div class="project-item-inner outer-shadow">
                 <div class="project-item-img">
                     <img src="./img/projfolio/thumb/code.gif" alt="project"
-                    data-screenshots="img/projfolio/proj/project1/mini_game/p1.png,
-                    img/projfolio/proj/project1/mini_game/p2.png,
-                    img/projfolio/proj/project1/mini_game/p3.png,
-                    img/projfolio/proj/project1/mini_game/p4.png,
-                    img/projfolio/proj/project1/mini_game/p5.png,
-                    img/projfolio/proj/project1/mini_game/p6.png">
+                    data-screenshots="img/projfolio/proj/project1/codingsite/cs0.png,
+                    img/projfolio/proj/project1/codingsite/cs1.png,
+                    img/projfolio/proj/project1/codingsite/cs2.png,
+                    img/projfolio/proj/project1/codingsite/cs3.png,
+                    img/projfolio/proj/project1/codingsite/cs4.png,
+                    img/projfolio/proj/project1/codingsite/cs5.png">
                     <!--view project btn-->
                     <span class="view-project">view project</span>
                 </div>
