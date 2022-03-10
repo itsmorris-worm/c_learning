@@ -3,7 +3,7 @@
 <html lang="zxx">
 <head>
     <meta charset="utf-8">
-    <title>Personal Portfolio Website</title>
+    <title>Chandan Sharma</title>
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <!--font awesome-->
     <link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
@@ -39,7 +39,7 @@
                     <a class="grad-col0" href="https://www.google.com/search?q=itsmorris_worm&rlz=1C1CHBD_enIN898IN898&oq=itsmorris_worm&aqs=chrome..69i57j69i60l3.6989j0j1&sourceid=chrome&ie=UTF-8" target="_blank class="outer-shadow hover-in-shadow" style="background: -webkit-linear-gradient(rgb(177, 0, 0),rgb(156, 156, 0),rgb(18, 112, 18));
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;">Ｇ</a>
-                    <a href="index.html" class=" grad-col1"> itsmorris_worm </a>
+                    <a href="index.php" class=" grad-col1"> itsmorris_worm </a>
                 </div>
                 <div class="hamburger-btn outer-shadow hover-in-shadow">
                     <span></span>
